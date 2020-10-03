@@ -1,6 +1,6 @@
 ## Hola. 👋
 
-![GitHub de Ecléctikus]()
+![GitHub de Ecléctikus](https://github.com/Eclectikus/Eclectikus/blob/main/img/Eclectikus.png)
 
 - :monkey: Bienvenidos al perfil de **Ecléctikus**, un pseudónimo que utilizo para la mayoría de mis actividades online.
 - :cloud: Aquí encontraras repositorios sobre adquisición, tratamiento y análisis de información, algo de programación y algo de desarrollo WEB. Últimamente estoy **muy** interesado en las técnicas **OSINT**, y también en **JAMstack**
