@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hola. 👋
+
+![GitHub de Ecléctikus]()
+
+- :monkey: Bienvenidos al perfil de **Ecléctikus**, un pseudónimo que utilizo para la mayoría de mis actividades online.
+- :cloud: Aquí encontraras repositorios sobre adquisición, tratamiento y análisis de información, algo de programación y algo de desarrollo WEB. Últimamente estoy **muy** interesado en las técnicas **OSINT**, y también en **JAMstack**
+
+Imagen [Norbert Levajsics](https://unsplash.com/@levajsics?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) vía [Unsplash](https://unsplash.com/s/photos/chimps?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText).
 
 <!--
 **Eclectikus/Eclectikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
