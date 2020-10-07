@@ -6,7 +6,7 @@
 - :cloud: Aquí encontrarás repositorios sobre *adquisición*, *tratamiento* y *análisis de información*, algo de programación (sobre todo en **`R`** y en **`JavaScript`**) y algo de *desarrollo WEB*. Últimamente estoy **muy** interesado en las técnicas **OSINT**, y también en desarrollo nativo el la nube según la filosofía **JAMstack**.
 - :link: Muchos de los repositorios, públicos o privados, terminan en [**`noSoloDatos`**](https://nosolodatos.netlify.app/).
 - :shipit: En estos momentos trabajo en el desarrollo de un conjunto de herramientas de **inteligencia de fuentes abiertas**, y específicamente en un prototipo de buscador de recursos **OSINT** ([**`BuscOSINT`**](https://buscosint.netlify.app/)), que ha recibido el 2º premio en el [Hackathon 2020 de IntelCon](https://ginseg.com/2020/7845/hackathon-intelcon/resolucion-del-hackathon-intelcon).
-- Para asuntos profesionales, colaboraciones, peritajes o contratación, usa por favor mi [*otro perfil*](https://github.com/joanh).
+- :email: Para asuntos profesionales, colaboraciones, peritajes o contratación, usa por favor mi [*otro perfil*](https://github.com/joanh).
 
 Gracias por su visita.
 
