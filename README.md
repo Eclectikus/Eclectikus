@@ -1,6 +1,6 @@
 ## Hola 👋
 
-<img align="right" width="270" height="270" src="https://github.com/Eclectikus/Eclectikus/blob/main/img/Eclectikus.png">
+<img align="right" width="270" height="270" src="https://github.com/Eclectikus/Eclectikus/blob/main/img/logos.png">
 
 - :monkey: Bienvenidos al perfil de **Ecléctikus**, el pseudónimo que utilizo para la mayoría de mis actividades públicas online. Explico algo más sobre este asunto [aquí](https://nosolodatos.netlify.app/es/ec/eclectikusbio).
 - :cloud: Aquí encontrarás repositorios sobre *adquisición*, *tratamiento* y *análisis de información*, algo de programación (sobre todo en **`R`** y en **`JavaScript`**) y algo de *desarrollo WEB*. Últimamente estoy **muy** interesado en las técnicas **OSINT**, y también en desarrollo nativo en la nube según la filosofía **JAMstack**.
